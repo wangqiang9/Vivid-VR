@@ -16,4 +16,6 @@ scikit-image
 mkinit
 addict
 yapf
+diffusers
+opencv-python
 -e .
